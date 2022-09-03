@@ -1,0 +1,7 @@
+.navbar > *, .navbar-toggler-icon {
+    color: #e9ecef;
+}
+
+.nav-link  {
+    color: #e9ecef !important;
+}
